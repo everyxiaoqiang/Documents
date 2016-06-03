@@ -1,2 +1,0 @@
-# Documents
-my study summary
